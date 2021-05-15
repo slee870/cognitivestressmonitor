@@ -1,0 +1,30 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.yeolabgt.mahmoodms.actblelibrary"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\nathan\Dropbox (GaTech)\Yeo_Lab\gra_device\android\Android-ADXL355-SPO2-monitoring-sync-v3\actblelibrary\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->C:\Users\nathan\Dropbox (GaTech)\Yeo_Lab\gra_device\android\Android-ADXL355-SPO2-monitoring-sync-v3\actblelibrary\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->C:\Users\nathan\Dropbox (GaTech)\Yeo_Lab\gra_device\android\Android-ADXL355-SPO2-monitoring-sync-v3\actblelibrary\src\main\AndroidManifest.xml:3:5-5:35
+12        android:name="android.hardware.bluetooth_le"
+12-->C:\Users\nathan\Dropbox (GaTech)\Yeo_Lab\gra_device\android\Android-ADXL355-SPO2-monitoring-sync-v3\actblelibrary\src\main\AndroidManifest.xml:4:9-53
+13        android:required="true" />
+13-->C:\Users\nathan\Dropbox (GaTech)\Yeo_Lab\gra_device\android\Android-ADXL355-SPO2-monitoring-sync-v3\actblelibrary\src\main\AndroidManifest.xml:5:9-32
+14
+15    <uses-permission android:name="android.permission.BLUETOOTH" />
+15-->C:\Users\nathan\Dropbox (GaTech)\Yeo_Lab\gra_device\android\Android-ADXL355-SPO2-monitoring-sync-v3\actblelibrary\src\main\AndroidManifest.xml:6:5-68
+15-->C:\Users\nathan\Dropbox (GaTech)\Yeo_Lab\gra_device\android\Android-ADXL355-SPO2-monitoring-sync-v3\actblelibrary\src\main\AndroidManifest.xml:6:22-65
+16    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+16-->C:\Users\nathan\Dropbox (GaTech)\Yeo_Lab\gra_device\android\Android-ADXL355-SPO2-monitoring-sync-v3\actblelibrary\src\main\AndroidManifest.xml:7:5-74
+16-->C:\Users\nathan\Dropbox (GaTech)\Yeo_Lab\gra_device\android\Android-ADXL355-SPO2-monitoring-sync-v3\actblelibrary\src\main\AndroidManifest.xml:7:22-71
+17
+18    <application />
+18-->C:\Users\nathan\Dropbox (GaTech)\Yeo_Lab\gra_device\android\Android-ADXL355-SPO2-monitoring-sync-v3\actblelibrary\src\main\AndroidManifest.xml:8:5-20
+19
+20</manifest>
